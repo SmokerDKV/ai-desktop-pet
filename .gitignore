@@ -1,0 +1,60 @@
+# 用户数据和配置
+memory.db
+personality_config.json
+配置文件/config.json
+!配置文件/config.example.json
+
+# 用户上传的图片
+人物图片/*.png
+人物图片/*.jpg
+人物图片/*.gif
+配置文件/pet_images/*.png
+配置文件/pet_images/*.jpg
+配置文件/pet_images/*.gif
+
+# 但保留目录结构
+!人物图片/.gitkeep
+!配置文件/pet_images/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 日志
+配置文件/logs/*.log
+配置文件/logs/*.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+*.backup
