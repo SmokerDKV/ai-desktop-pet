@@ -1,2 +1,2 @@
-# AI 2D Waifu (Desktop Pet)
-A desktop pet AI that initially supports uploading 2D waifu images. Right now, it only supports uploading some basic expressions. You can integrate an API key for large model chats, and you can customize its personality. Currently, it uses Deepseek, and Claude can help you connect to other AI large models. In the future, there might be a version that supports uploading 3D models of 2D waifus.
+# AI 2D Girlfriend (Desktop Pet)
+A preliminary AI desktop pet that supports uploading 2D girlfriend images. Right now, it only supports uploading some basic expressions. You can connect it with an API key for big model chat and customize its personality. Currently, it uses DeepSeek, but you can have Claude help you connect other AI big models. In the future, there might be versions that support uploading 3D models of your 2D girlfriend.
