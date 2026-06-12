@@ -1,2 +1,2 @@
-# ai二次元老婆（桌宠）
-一个初步支持上传二次元老婆形象的ai桌宠，目前只支持上传部分基础表情，可以接入apikey进行大模型聊天，可以自定义性格，目前使用的是deepseek，可以让claude帮你接入别的ai大模型，后续可能会研究支持上传二次元老婆3d模型的版本
+# AI 2D Waifu (Desktop Pet)
+A desktop pet AI that initially supports uploading 2D waifu images. Right now, it only supports uploading some basic expressions. You can integrate an API key for large model chats, and you can customize its personality. Currently, it uses Deepseek, and Claude can help you connect to other AI large models. In the future, there might be a version that supports uploading 3D models of 2D waifus.
